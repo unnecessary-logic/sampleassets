@@ -1,24 +1,24 @@
 {
-	"quotes": [
-	{
-		"author": "Deckard Cain",
-		"quote": "Stay awhile and listen!"
-	},
-	{
-		"author": "Toad",
-		"quote": "Thank you Mario, but your princess is in another castle!"
-	},
-	{
-		"author": "Mario Mario",
-		"quote": "It's a-me, a-Mario!"
-	},
-	{
-		"author": "Sonic",
-		"quote": "You're too slow!"
-	},
-	{
-		"author": "Shang Tsung",
-		"quote": "FINISH HIM!!!"
-	}
-	]
+    "quotes": [
+        {
+            "author": "Deckard Cain",
+            "quote": "Stay awhile and listen!"
+        },
+        {
+            "author": "Toad",
+            "quote": "Thank you Mario, but your princess is in another castle!"
+        },
+        {
+            "author": "Mario Mario",
+            "quote": "It's a-me, a-Mario!"
+        },
+        {
+            "author": "Sonic",
+            "quote": "You're too slow!"
+        },
+        {
+            "author": "Shang Tsung",
+            "quote": "FINISH HIM!!!"
+        }
+    ]
 }
