@@ -1,5 +1,5 @@
-[
-	quotes: [
+{
+	"quotes": [
 	{
 		"author": "Deckard Cain",
 		"quote": "Stay awhile and listen!"
@@ -21,4 +21,4 @@
 		"quote": "FINISH HIM!!!"
 	}
 	]
-]
+}
