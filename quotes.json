@@ -3,27 +3,27 @@
         {
             "author": "Deckard Cain",
             "quote": "Stay awhile and listen!",
-			"background": "https://github.com/unnecessary-logic/sampleassets/blob/master/cain.jpg"
+            "background": "https://github.com/unnecessary-logic/sampleassets/blob/master/cain.jpg"
         },
         {
             "author": "Toad",
             "quote": "Thank you Mario, but your princess is in another castle!",
-			"background": "https://github.com/unnecessary-logic/sampleassets/blob/master/toad.png"
+            "background": "https://github.com/unnecessary-logic/sampleassets/blob/master/toad.png"
         },
         {
             "author": "Mario Mario",
             "quote": "It's a-me, a-Mario!",
-			"background": "https://github.com/unnecessary-logic/sampleassets/blob/master/mario.jpg"
+            "background": "https://github.com/unnecessary-logic/sampleassets/blob/master/mario.jpg"
         },
         {
             "author": "Sonic",
             "quote": "You're too slow!",
-			"background": "https://github.com/unnecessary-logic/sampleassets/blob/master/sonic.jpg"
+            "background": "https://github.com/unnecessary-logic/sampleassets/blob/master/sonic.jpg"
         },
         {
             "author": "Shang Tsung",
             "quote": "FINISH HIM!!!",
-			"background": "https://github.com/unnecessary-logic/sampleassets/blob/master/tsung.jpg"
+            "background": "https://github.com/unnecessary-logic/sampleassets/blob/master/tsung.jpg"
         }
     ]
 }
