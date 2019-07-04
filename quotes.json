@@ -1,4 +1,5 @@
 [
+	quotes: [
 	{
 		"author": "Deckard Cain",
 		"quote": "Stay awhile and listen!"
@@ -19,4 +20,5 @@
 		"author": "Shang Tsung",
 		"quote": "FINISH HIM!!!"
 	}
+	]
 ]
