@@ -1,0 +1,124 @@
+[
+	{
+		"name": "Quote Machine",
+		"url": "https://codepen.io/unnecessary-logic/full/xozVxr",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/quote.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the Front End Libraries portion of the certification using React.JS.  The goal is to re-render the Quote Box when the quote button is clicked, and allow for tweeting when the tweet icon is clicked."
+	},
+	{
+		"name": "Markdown Previewer",
+		"url": "https://codepen.io/unnecessary-logic/full/YoRXOQ",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/markdown.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the Front End Libraries portion of the certification using React.JS.  The goal is to, in real-time, render a user's input as markdown as they type."
+	},
+	{
+		"name": "Drum Machine",
+		"url": "https://codepen.io/unnecessary-logic/full/rEQrVV",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/drums.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the Front End Libraries portion of the certification using React.JS.  The goal of this assignment is to play different drum sounds when the keys are pressed, and display information about them in real-time."
+	},
+	{
+		"name": "Calculator",
+		"url": "https://codepen.io/unnecessary-logic/full/MMxVbz",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/calc.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the Front End Libraries portion of the certification using React.JS.  The goal of this assignment was to use React.JS to build a real, functioning calculator."
+	},
+	{
+		"name": "Pamodoro Clock",
+		"url": "https://codepen.io/unnecessary-logic/full/pXmEjq",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/clock.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the Front End Libraries portion of the certification using React.JS.  The goal of this assignment was to use React.JS to build a Pomodoro Clock.  This project was built using React.JS paired with Redux."
+	},
+	{
+		"name": "Bar Chart Visualization",
+		"url": "https://codepen.io/unnecessary-logic/full/EqjRJz",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/bar.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the D3 Data Visualization part of the certification.  The goal of this page was to render JSON data for the United States GDP into a linear bar graph."
+	},
+	{
+		"name": "Scatterplot Graph Visualization",
+		"url": "https://codepen.io/unnecessary-logic/full/rXxzqM",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/cyclist.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the D3 Data Visualization part of the certification.  The goal of this page was to render JSON data for Cyclist Data into a scatter plot graph, as well as mark plots for doping allegations (or not)."
+	},
+	{
+		"name": "Heat Map Visualization",
+		"url": "https://codepen.io/unnecessary-logic/full/zgBvXe",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/heat.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the D3 Data Visualization part of the certification.  The goal of this page was to render JSON data for Global Base Temperatures throughout the years as a heat map."
+	},
+	{
+		"name": "Choropleth Map Visualization",
+		"url": "https://codepen.io/unnecessary-logic/full/eqdgmv",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/choro.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the D3 Data Visualization part of the certification.  The goal of this page was to render JSON data for educational values (Adults over a certain age with a Bachelor's Degree)."
+	},
+	{
+		"name": "Tree Map Visualization",
+		"url": "https://codepen.io/unnecessary-logic/full/NQRLPp",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/tree.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the curriculum for the D3 Data Visualization part of the certification.  The goal of this page was to render JSON data for video game sales in a D3 Tree Map."
+	},
+	{
+		"name": "Timestamp Microservice",
+		"url": "https://glitch.com/~gold-galliform",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/timestamp.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the APIs and Microservices part of the full-stack certification.  The goal of this assignment was to GET and return a timestamp with certain requirements.  Written in Javascript, leveraged with Node.JS.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	},
+	{
+		"name": "Request Header Parser Microservice",
+		"url": "https://glitch.com/~plume-hoverfly",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/header.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the APIs and Microservices part of the full-stack certification.  The goal of this assignment was to GET the IP Address as well as other system information and return it.  Written in Javascript, leveraged with Node.JS.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	},
+	{
+		"name": "URL Shortener Microservice",
+		"url": "https://glitch.com/~sly-meteorology",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/short.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the APIs and Microservices part of the full-stack certification.  The goal of this assignment is to allow the user to POST a URL and receive a shortened URL they can serve up to others.  Written in Javascript, and leverages Node.JS and MongoDB to store and return a shortened URL.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	},
+	{
+		"name": "Exercise Tracker",
+		"url": "https://glitch.com/~sheer-share",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/exercise.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the APIs and Microservices part of the full-stack certification.  The goal of this assignment was to store usernames, as well as allow the user to add exercises to that username.  Written in Javascript, leverages Node.JS and MongoDB to store and return user and exercise information.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	},
+	{
+		"name": "File Metadata Microservice",
+		"url": "https://glitch.com/~green-pisces-1",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/metadata.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the APIs and Microservices part of the full-stack certification.  The goal of this assignment was to allow the user to upload a file, then return the metadata of that file in a JSON response.  Written in Javascript and leveraged with Node.JS.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	},
+	{
+		"name": "Metric Imperial Converter",
+		"url": "https://glitch.com/~sugared-dryer",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/metric.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the Information Security and Quality Assurance part of the full-stack certification.  The goal of this assignment was to take user input for a value and unit, then return its converted unit (example: gal to L).  Written in Javascript and leveraged with Node.JS.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	},
+	{
+		"name": "Issue Tracker",
+		"url": "https://glitch.com/~puzzled-prosecution",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/issue.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the Information Security and Quality Assurance part of the full-stack certification.  The goal of this assignment was to allow the user to POST issues to create new issues, PUT issues to update them, DELETE them, and GET issues.  Written in Javascript and leveraged with Node.JS and MongoDB.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	},
+	{
+		"name": "Personal Library",
+		"url": "https://glitch.com/~even-koi",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/book.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the Information Security and Quality Assurance part of the full-stack certification.  The goal of this assignment was to allow the user to POST a title to create a new book entry, then GET a single entry (or all entries), POST comments, and/or delete individual or all book entries.  Written in Javascript and leveraged with Node.JS and MongoDB.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	},
+	{
+		"name": "Stock Price Checker",
+		"url": "https://glitch.com/~octagonal-mat",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/stock.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the Information Security and Quality Assurance part of the full-stack certification.  The goal of this assignment was to GET a stock-api request from the user, then post back in real time the ticker stock price, as well as allow likes and the return of likes.  Written in Javascript and leveraged with Node.JS, MongoDB and the free stock API alphavantage.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	},
+	{
+		"name": "Anonymous Message Board",
+		"url": "https://glitch.com/~outgoing-sovereign",
+		"thumbnail": "https://s3-us-west-1.amazonaws.com/makesensestaysimple.com/assets/message.png",
+		"tooltip": "A FreeCodeCamp assignment.  This assignment was part of the Information Security and Quality Assurance part of the full-stack certification.  The goal of this assignment was to create an anonymous message board that allowed a user to POST threads, replies, GET threads and replies, PUT reports onto threads or replies, and DELETE threads or replies with a password.  Written in Javascript and leveraged with Node.JS and MongoDB.  Note: the front-end portion was provided by FreeCodeCamp as a way to streamline the project."
+	}
+]
+
+
